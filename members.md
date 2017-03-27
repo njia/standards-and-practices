@@ -1,4 +1,3 @@
-# Roster -- Learn Programming Mentoring Community
 ## Mentor Roster
 
 | **Title** | **Name** | **GitHub** | **Reddit** | **Languages** |
